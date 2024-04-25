@@ -14,7 +14,7 @@
 >Aqui tienes un consejo
 
 
-<div class="alert alert-success alertsuccess" style="margin-top: 20px; background-color:red;color:blue">
+<div class="alert alert-success alertsuccess" style="margin-top: 20px">
    <strong>AHORA TÚ: </strong>  
   <p>
 Seleccione otra variable y analice su comportamiento
